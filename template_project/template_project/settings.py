@@ -25,7 +25,7 @@ SECRET_KEY = 'notz&**smwnst-1iw!7367-y3)*8v*z1$)ao0(*eju(78()yly'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lmag.pythonanywhere.com']
 
 
 # Application definition
